@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **satwikgupta1801@gmail.com**
 
-- 📄 Know about my experiences <link scr='https://drive.google.com/drive/folders/1C7eKfdsUCnvTl2L1CNX1QEI7GOxJZ_2b?usp=drive_link'>here</link>
+- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1C7eKfdsUCnvTl2L1CNX1QEI7GOxJZ_2b?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
