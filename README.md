@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Satwik Gupta</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Hello! I am currently pursuing B.Tech, in Computer Science and Engineering from NIT Agartala. Currently I am learning Competitive programming and Web development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satwikgupta" alt="satwikgupta" /></a> </p>
+- 🌱 I’m currently learning **frontend.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/satwikgupta/MyPortfolio](https://github.com/satwikgupta/MyPortfolio)
+
+- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, Redux-Toolkit.**
+
+- 📫 How to reach me **satwikgupta1801@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1C7eKfdsUCnvTl2L1CNX1QEI7GOxJZ_2b?usp=drive_link](https://drive.google.com/drive/folders/1C7eKfdsUCnvTl2L1CNX1QEI7GOxJZ_2b?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
