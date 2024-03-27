@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **frontend.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/satwikgupta/MyPortfolio](https://github.com/satwikgupta/MyPortfolio)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://satwikgupta.github.io/MyPortfolio/)
 
 - 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, Redux-Toolkit.**
 
